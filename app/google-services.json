@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "872490092230",
+    "project_id": "gametech-d7a88",
+    "storage_bucket": "gametech-d7a88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872490092230:android:efb319b564c08a446ff9c7",
+        "android_client_info": {
+          "package_name": "com.example.gametech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872490092230-5iqmf7koahlkoa5ikhl3opcmuvt2jptb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJZtqwtCV6WLZgwmxEb0QOPwvE2fMo1KY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872490092230-5iqmf7koahlkoa5ikhl3opcmuvt2jptb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

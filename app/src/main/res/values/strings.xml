@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GameTech</string>
+    <string-array name="list">
+        <item>Gaming Mouse</item>
+        <item>SGaming Keyboards</item>
+        <item>Monitors</item>
+        <item>MousePad</item>
+        <item>Processors</item>
+        <item>CPU Casing</item>
+    </string-array>
+</resources>
